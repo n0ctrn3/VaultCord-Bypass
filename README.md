@@ -82,7 +82,7 @@
 <hr>
 
 # REASONING BEHIND THIS REPO
-This repository aims to uncover the truth behind VaultCord, a service that claims to value your privacy but may not be as trustworthy as it seems. We'll dive into recent actions by the owner, known as MAK, and how he contradict the service promises.
+This repository aims to uncover the truth behind VaultCord, a service that claims to value your privacy but may not be as trustworthy as it seems. We'll dive into recent actions by the owner, known as MAK, and how he contradicts the service promises.
 
 **Calling Out Double Standards**
 
@@ -99,3 +99,7 @@ VaultCord's opt-out feature doesn't comply with GDPR regulations. When you join 
 **Keeping Users in the Dark**
 
 VaultCord's lack of clear opt-out options makes it hard for users to control their data. Without easy access to the opt-out link, users might not even realize what data is being collected and shared. This lack of transparency destroys trust in VaultCord.
+
+<hr>
+
+*yes this is AI generated :)
