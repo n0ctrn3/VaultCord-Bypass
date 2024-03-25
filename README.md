@@ -85,13 +85,17 @@
 This repository aims to uncover the truth behind VaultCord, a service that claims to value your privacy but may not be as trustworthy as it seems. We'll dive into recent actions by the owner, known as MAK, and how he contradict the service promises.
 
 **Calling Out Double Standards**
+
 MAK, the owner of VaultCord, has criticized other services for selling user data such as RestoreCord, painting VaultCord as a privacy-focused alternative. However, recent updates reveal VaultCord engaging in similar practices, showing hypocrisy.
 
 **Changes that Break Promises**
+
 Despite VaultCord's earlier claims about protecting user IP addresses, a recent update introduces a premium feature that allows access to this sensitive information. This directly contradicts what was promised in [VaultCord's first youtube video](https://youtu.be/bJ_N6o6WRM4?t=406).
 
 **Not Following the Rules**
+
 VaultCord's opt-out feature doesn't comply with GDPR regulations. When you join the site, you're not given a clear choice about sharing your data. This raises concerns about VaultCord's respect for user privacy and legal requirements.
 
 **Keeping Users in the Dark**
+
 VaultCord's lack of clear opt-out options makes it hard for users to control their data. Without easy access to the opt-out link, users might not even realize what data is being collected and shared. This lack of transparency destroys trust in VaultCord.
