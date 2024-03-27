@@ -95,6 +95,11 @@ Even the owner MAK knows what will happen when the update gets released.
 
 ![Canny Feature Request](https://github.com/n0ctrn3/VaultCord-Bypass/blob/main/images/canny%20feature%20request%20about%20ips.png)
 
+### Update
+Looks like he deleted the highlighted comment above, just showing he does not care about user privacy at all and is doing the same thing as RestoreCord, selling user information.
+
+![Canny Feature Request Updated](https://github.com/n0ctrn3/VaultCord-Bypass/blob/main/images/canny%20feature%20request%20about%20ips%20updated.png)
+
 View it [here](https://vaultcord.canny.io/feature-requests/p/show-public-ip-not-hashed) (might get deleted in the future)
 
 ## **Not Following the Rules**
