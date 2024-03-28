@@ -7,8 +7,8 @@ access_code = input("Discord Oauth2 code: ")
 vault_cord_verify_domain = input("VaultCord verify domain: ")
 cloudflare_captcha_token = input("Cloudflare captcha token: ")
 
-# Generate random IP and fingerprint
-ip = ''.join(random.choices(string.ascii_letters + string.digits, k=16)) # This is not a valid IP, but it doesn't matter. (It's stupid I know)
+# Generate valid IP and random fingerprint
+ip = '.'.join(str(random.randint(0, 255)) for _ in range(4))
 fingerprint = ''.join(random.choices(string.ascii_letters + string.digits, k=16))
 
 print(f"IP: {ip}")
